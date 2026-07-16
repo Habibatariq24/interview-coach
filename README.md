@@ -1,12 +1,12 @@
 # Interview Coach 🎯
 
-An AI-powered interview preparation tool that generates realistic interview questions from a job description and resume, then gives instant feedback on your typed answers — helping you walk into interviews more prepared.
+An AI-powered interview preparation tool that generates realistic interview questions from a job description and resume, then gives instant feedback on your typed answers  helping you walk into interviews more prepared.
 
 Built in a single evening as a hands-on demo of rapid AI product development using **Cursor**.
 
 ## 💡 Why I Built This
 
-I built this the night before an interview for an AI Builder role — the goal was to prove I could go from an idea to a working AI product quickly, using modern AI-assisted development tools. I used it to literally prep for the same interview it was built for.
+Built in a single evening to demonstrate how quickly a working AI product can go from idea to demo using modern AI-assisted development tools. It doubles as a practical example of the exact workflow it's designed to help with  preparing for a technical interview.
 
 ## ✨ Features
 
