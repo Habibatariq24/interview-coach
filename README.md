@@ -67,12 +67,6 @@ No build step required — this is a lightweight static app that runs directly i
 
 You'll need an API key from your chosen AI provider. Add it to the config file as instructed in the project, and you're ready to go.
 
-## 🙋‍♀️ About
-
-Built by **Habiba Tariq** — BS Data Science student at FAST NUCES, Lahore, with hands-on experience in NLP, RAG systems, and AI-powered chatbots.
-
-- [LinkedIn](https://linkedin.com/in/habiba-tariq24)
-- [Portfolio](https://habibatariq24.github.io/)
 
 ---
 
